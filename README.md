@@ -2,8 +2,6 @@
 
 ## _Desktop environment in the browser_
 
-![Screenshot](https://raw.githubusercontent.com/DustinBrett/daedalOS/refs/heads/main/public/screenshot.png?raw=true)
-
 ### Feature Overview
 
 [![Feature Overview](https://img.youtube.com/vi/djCqHH0SCmA/mqdefault.jpg)](http://www.youtube.com/watch?v=djCqHH0SCmA)
@@ -72,10 +70,7 @@
 ### Background & Screensaver
 
 - Dynamic animated wallpapers ([OffscreenCanvas](https://developer.mozilla.org/en-US/docs/Web/API/OffscreenCanvas)/[Web Worker](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers))
-  - [Waves](https://www.vantajs.com/?effect=waves)
-  - [Hexells](https://znah.net/hexells/)
-  - [Matrix](https://rezmason.github.io/matrix/)
-  - [Coastal Landscape](https://www.shadertoy.com/view/fstyD4)
+  - [Refract](https://www.shadertoy.com/view/4d3GW7)
 - Set via image/video (Fill, Fit, Stretch, Tile, Center)
 - Picture Slideshow
 - [Astronomy Picture of the Day](https://api.nasa.gov/#apod)
